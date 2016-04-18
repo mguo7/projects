@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mguo7/!svn/ver/316/cs212/project5/src
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mguo7/!svn/ver/316/cs212/project5/src/log4j2.xml
+END
+SearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mguo7/!svn/ver/316/cs212/project5/src/SearchResults.java
+END
+LoginBaseServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LoginBaseServlet.java
+END
+SearchServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mguo7/!svn/ver/316/cs212/project5/src/SearchServer.java
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mguo7/!svn/ver/316/cs212/project5/src/database.properties
+END
+IndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mguo7/!svn/ver/316/cs212/project5/src/IndexBuilder.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mguo7/!svn/ver/316/cs212/project5/src/Driver.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mguo7/!svn/ver/316/cs212/project5/src/MultiReaderLock.java
+END
+LoginDatabaseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LoginDatabaseHandler.java
+END
+HTMLLinkParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mguo7/!svn/ver/316/cs212/project5/src/HTMLLinkParser.java
+END
+LoginRedirectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LoginRedirectServlet.java
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mguo7/!svn/ver/316/cs212/project5/src/WorkQueue.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mguo7/!svn/ver/316/cs212/project5/src/InvertedIndex.java
+END
+SearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mguo7/!svn/ver/316/cs212/project5/src/SearchServlet.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mguo7/!svn/ver/316/cs212/project5/src/ArgumentParser.java
+END
+HTMLFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mguo7/!svn/ver/316/cs212/project5/src/HTMLFetcher.java
+END
+LogoutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LogoutServlet.java
+END
+ChangePasswordServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mguo7/!svn/ver/316/cs212/project5/src/ChangePasswordServlet.java
+END
+LoginRegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LoginRegisterServlet.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mguo7/!svn/ver/316/cs212/project5/src/StringUtilities.java
+END
+SearchBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mguo7/!svn/ver/316/cs212/project5/src/SearchBuilder.java
+END
+DatabaseConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mguo7/!svn/ver/316/cs212/project5/src/DatabaseConnector.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mguo7/!svn/ver/316/cs212/project5/src/Status.java
+END
+HistoryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mguo7/!svn/ver/316/cs212/project5/src/HistoryServlet.java
+END
+LoginUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mguo7/!svn/ver/316/cs212/project5/src/LoginUserServlet.java
+END

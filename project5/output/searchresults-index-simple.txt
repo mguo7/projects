@@ -1,0 +1,47 @@
+two
+"/home/public/cs212/input/index/gutenberg/pg2701.txt", 295, 833
+"/home/public/cs212/input/index/gutenberg/pg98.txt", 219, 9
+"/home/public/cs212/input/index/gutenberg/pg1661.txt", 150, 1385
+"/home/public/cs212/input/index/gutenberg/pg1342.txt", 135, 1086
+"/home/public/cs212/input/index/gutenberg/pg1322.txt", 77, 2602
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 43, 859
+"/home/public/cs212/input/index/gutenberg/pg11.txt", 39, 2038
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 8, 1621
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 6, 712
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6, 1826
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 4, 2736
+"/home/public/cs212/input/index/simple/position.txt", 1, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1, 66
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1, 8574
+
+chickadee
+"/home/public/cs212/input/index/gutenberg/pg1322.txt", 1, 8899
+
+aa
+"/home/public/cs212/input/index/gutenberg/pg98.txt", 3, 8147
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3, 8797
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+
+t
+"/home/public/cs212/input/index/gutenberg/pg2701.txt", 35537, 1
+"/home/public/cs212/input/index/gutenberg/pg98.txt", 21089, 1
+"/home/public/cs212/input/index/gutenberg/pg1322.txt", 20560, 1
+"/home/public/cs212/input/index/gutenberg/pg1342.txt", 16346, 1
+"/home/public/cs212/input/index/gutenberg/pg1661.txt", 15384, 3
+"/home/public/cs212/input/index/gutenberg/pg11.txt", 4806, 10
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 3397, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3248, 15
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1762, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1624, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1352, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 984, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 491, 21
+"/home/public/cs212/input/index/simple/position.txt", 6, 2
+
+elephant antelope
+"/home/public/cs212/input/index/gutenberg/pg2701.txt", 32, 16931
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/gutenberg/pg1322.txt", 1, 33736
+"/home/public/cs212/input/index/gutenberg/pg98.txt", 1, 63867
+

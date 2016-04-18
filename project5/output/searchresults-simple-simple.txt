@@ -1,0 +1,15 @@
+two
+"/home/public/cs212/input/index/simple/position.txt", 1, 2
+
+chickadee
+
+aa
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+
+t
+"/home/public/cs212/input/index/simple/position.txt", 6, 2
+
+elephant antelope
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+

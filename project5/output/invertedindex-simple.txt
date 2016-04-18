@@ -1,0 +1,90 @@
+1
+"/home/public/cs212/input/index/simple/digits.txt", 1
+
+123
+"/home/public/cs212/input/index/simple/digits.txt", 4
+
+123a
+"/home/public/cs212/input/index/simple/digits.txt", 6
+
+2
+"/home/public/cs212/input/index/simple/digits.txt", 2
+
+3
+"/home/public/cs212/input/index/simple/digits.txt", 3
+
+a123
+"/home/public/cs212/input/index/simple/digits.txt", 5
+
+aardvark
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1
+
+alpaca
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1
+
+antelope
+"/home/public/cs212/input/index/simple/symbols.txt", 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+eight
+"/home/public/cs212/input/index/simple/position.txt", 8
+
+eighteen
+"/home/public/cs212/input/index/simple/position.txt", 18
+
+elephant
+"/home/public/cs212/input/index/simple/capitals.txt", 1, 2, 3, 4
+
+eleven
+"/home/public/cs212/input/index/simple/position.txt", 11
+
+fifteen
+"/home/public/cs212/input/index/simple/position.txt", 15
+
+five
+"/home/public/cs212/input/index/simple/position.txt", 5
+
+four
+"/home/public/cs212/input/index/simple/position.txt", 4
+
+fourteen
+"/home/public/cs212/input/index/simple/position.txt", 14
+
+nine
+"/home/public/cs212/input/index/simple/position.txt", 9
+
+nineteen
+"/home/public/cs212/input/index/simple/position.txt", 19
+
+one
+"/home/public/cs212/input/index/simple/position.txt", 1
+
+seven
+"/home/public/cs212/input/index/simple/position.txt", 7
+
+seventeen
+"/home/public/cs212/input/index/simple/position.txt", 17
+
+six
+"/home/public/cs212/input/index/simple/position.txt", 6
+
+sixteen
+"/home/public/cs212/input/index/simple/position.txt", 16
+
+ten
+"/home/public/cs212/input/index/simple/position.txt", 10
+
+thirteen
+"/home/public/cs212/input/index/simple/position.txt", 13
+
+three
+"/home/public/cs212/input/index/simple/position.txt", 3
+
+twelve
+"/home/public/cs212/input/index/simple/position.txt", 12
+
+twenty
+"/home/public/cs212/input/index/simple/position.txt", 20
+
+two
+"/home/public/cs212/input/index/simple/position.txt", 2
+

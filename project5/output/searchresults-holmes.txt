@@ -1,0 +1,382 @@
+da de di do du
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2652, 15
+
+j k l m n o p q r
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 22401, 2
+
+ca ce ci co cu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3027, 14
+
+s t u v w x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 34216, 1
+
+j
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 334, 118
+
+q r s t
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 25996, 1
+
+e
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 1840, 4
+
+y z
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2506, 45
+
+q r
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2405, 43
+
+a b c
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 20486, 7
+
+w x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8279, 40
+
+o p q r s t u
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 36327, 1
+
+3
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 12, 13231
+
+fa fe fi fo fu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2893, 30
+
+t
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 15511, 1
+
+d
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3038, 15
+
+wa we wi wo wu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5806, 40
+
+8 9
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 24, 12715
+
+g h i j k l
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 23344, 3
+
+0
+
+4
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 18, 10016
+
+ba be bi bo bu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3579, 135
+
+pa pe pi po pu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 1708, 81
+
+0 1
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 92, 84
+
+k l m n o p q r s t
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 45658, 1
+
+n
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2310, 37
+
+ya ye yi yo yu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2500, 45
+
+v
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 800, 116
+
+oa oe oi oo ou
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 633, 482
+
+k l m n o
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 16952, 5
+
+4 5
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 27, 7982
+
+m
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5258, 46
+
+20 12 22 32 42 52
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 17, 85
+
+80 18 28 38 48 58
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 17, 84
+
+j k l
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3643, 62
+
+ka ke ki ko ku
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 200, 514
+
+a b c d e f g h i
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 48947, 3
+
+7
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6, 10060
+
+60 16 26 36 46 56
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 9, 87
+
+d e f
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8760, 4
+
+a b c d e f
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 29246, 4
+
+a b c d e f g h
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 39484, 3
+
+40 14 24 34 44 54
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5, 32793
+
+a b c d e
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 25364, 4
+
+g h
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 10238, 3
+
+8
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 17, 34710
+
+50 15 25 35 45 55
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 10, 27528
+
+aa ee ii oo uu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 7, 136
+
+ia ie ii io iu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8, 136
+
+6
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8, 19651
+
+30 13 23 33 43 53
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6, 13231
+
+f
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3882, 30
+
+g h i
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 19701, 3
+
+k
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 547, 514
+
+l
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2762, 62
+
+i j
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 9797, 29
+
+na ne ni no nu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2309, 37
+
+g
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 1675, 3
+
+xa xe xi xo xu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 4, 191
+
+90 19 29 39 49 59
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6, 91
+
+10 11 21 31 41 51
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 25, 7982
+
+0 1 2 3 4 5 6 7 8 9
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 197, 84
+
+ja je ji jo ju
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 333, 118
+
+6 7
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 14, 10060
+
+5 6 7 8 9
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 47, 7982
+
+2
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 28, 85
+
+b
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 4562, 11
+
+70 17 27 37 47 57
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6, 10158
+
+r
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2124, 43
+
+v w x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 9079, 40
+
+aa bb cc dd ee ff gg hh ii jj kk ll mm nn oo pp qq rr ss tt uu vv ww xx yy zz
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 46, 70
+
+u
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 1546, 32
+
+s t u
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 25137, 1
+
+ua ue ui uo uu
+
+u v
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2346, 32
+
+c d
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 7209, 14
+
+1
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 92, 84
+
+ta te ti to tu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 4159, 57
+
+s t
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 23591, 1
+
+u v w x y
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 13126, 32
+
+q r s t u v w x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 36621, 1
+
+o p
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8785, 2
+
+p q r
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5115, 2
+
+la le li lo lu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2702, 62
+
+a
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 11753, 7
+
+a b c d e f g
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 30921, 3
+
+s
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8080, 9
+
+ma me mi mo mu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3774, 46
+
+5
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 9, 7982
+
+e f
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5722, 4
+
+a b
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 16315, 7
+
+h i j k l m n
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 29237, 10
+
+ea ee ei eo eu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 234, 435
+
+e f g h
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 15960, 3
+
+k l
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 3309, 62
+
+aa ae ai ao au
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 58, 77
+
+2 3
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 40, 85
+
+a b c d e f g h i j
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 49281, 3
+
+i
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 9463, 29
+
+9
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 7, 12715
+
+ga ge gi go gu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 1204, 3
+
+f g h i j
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 23917, 3
+
+z
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5, 19576
+
+q
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 281, 419
+
+m n o
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 13643, 5
+
+sa se si so su
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 4318, 12
+
+a b c d
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 23524, 7
+
+x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6, 184
+
+ra re ri ro ru
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2109, 43
+
+bb cc dd ff gg hh jj kk ll mm nn pp qq rr ss tt vv ww xx yy zz
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 39, 70
+
+p
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2710, 2
+
+m n o p q r
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 18758, 2
+
+i j k l m n o p
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 29459, 2
+
+m n o p
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 16353, 2
+
+qa qe qi qo qu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 281, 419
+
+h
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8563, 10
+
+c
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 4171, 14
+
+za ze zi zo zu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 5, 19576
+
+va ve vi vo vu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 798, 116
+
+u v w x
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 10625, 32
+
+o
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 6075, 5
+
+p q r s t
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 28706, 1
+
+i j k l
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 13106, 29
+
+0 1 2 3 4
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 150, 84
+
+w
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8273, 40
+
+ha he hi ho hu
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 8528, 10
+
+y
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 2501, 45
+
+m n
+"http://www.cs.usfca.edu/~sjengle/cs212/gutenberg/1661-h.htm", 7568, 37
+
